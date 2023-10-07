@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @AatmanRangrej
-- 👀 I’m interested in emerging technologies that shapes the digital lives of civilization as we know it. In its core, what's next after smartphones?
-- 🌱 I’m currently learning and building stuff around Virtual Reality. 
-- 💞️ I’m looking to collaborate to impliments ideas that solves real problems.
-- 📫 How to reach me ...email: aurangrej@mun.ca  
 
 #Hop in, take a look at some of my cool projects.
 
