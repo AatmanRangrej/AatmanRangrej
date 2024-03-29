@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AatmanRangrej
-
-#Hop in, take a look at some of my cool projects.
+# 👋 Hi, I’m Aatman,
+### Hop in, take a look at some of my cool projects.
+###  https://aatmanrangrej.github.io/
 
 
 
